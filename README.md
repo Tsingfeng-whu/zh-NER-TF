@@ -3,7 +3,7 @@
 This repository includes the code for buliding a very simple __character-based BiLSTM-CRF sequence labelling model__ for Chinese Named Entity Recognition task. Its goal is to recognize three types of Named Entity: PERSON, LOCATION and ORGANIZATION.
 
 This code works on Python 3 & TensorFlow 1.1 and the following repository [https://github.com/guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) gives me much help.
-
+http://www.cnblogs.com/Determined22/p/7238342.html
 ### model
 
 This model is similar to the models provied by paper [1] and [2]. Its structure looks just like the following illustration:
